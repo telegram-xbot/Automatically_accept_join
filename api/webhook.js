@@ -45,19 +45,19 @@ module.exports = async (req, res) => {
           [
             {
               text: "📢 Channel 3",
-              url: "https://t.me/@More_vedios_bot"
+              url: "https://t.me/More_vedios_bot"
             }
           ],
           [
             {
               text: "📢 Channel 4",
-              url: "https://t.me/@Baap_robot"
+              url: "https://t.me/Baap_robot"
             }
           ],
           [
             {
               text: "➕ Add In Your Channel",
-              url: "https://t.me/@Automatically_join_accept_bot?startchannel"
+              url: "https://t.me/Automatically_join_accept_bot?startchannel"
             }
           ]
         ]
@@ -76,13 +76,13 @@ module.exports = async (req, res) => {
           [
             {
               text: "📢 Add Me To Channel",
-              url: "https://t.me/@Automatically_join_accept_bot?startchannel"
+              url: "https://t.me/Automatically_join_accept_bot?startchannel"
             }
           ],
           [
             {
               text: "👥 Add Me To Group",
-              url: "https://t.me/@Automatically_join_accept_bot?startgroup=true"
+              url: "https://t.me/Automatically_join_accept_bot?startgroup=true"
             }
           ],
           [
