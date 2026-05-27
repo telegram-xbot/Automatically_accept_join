@@ -1,7 +1,5 @@
 {
-  "functions": {
-    "api/webhook.js": {
-      "runtime": "@vercel/node"
-    }
-  }
+  "name": "auto-join-bot",
+  "version": "1.0.0",
+  "private": true
 }
